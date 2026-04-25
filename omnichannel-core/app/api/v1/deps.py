@@ -1,0 +1,1 @@
+﻿# Dependencias compartidas: CurrentUser, DB
